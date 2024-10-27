@@ -5,6 +5,12 @@ description: Western Asia
 
 > **DISCLAIMER:** This report is intended just for exploring the DataHub platform functionalities, **not** for any commercial use. All the data used in this note is property of Ookla, LLC.
 
+<FlatUiTable
+  data={{
+    url: 'west_as.csv'
+  }}
+/>
+
 ## Armenia
 
 <PlotlyLineChart
